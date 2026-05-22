@@ -21,6 +21,8 @@ Mở terminal trên Ubuntu, điều hướng vào thư mục chứa file docker-
 
 - phpMyAdmin sẽ truy cập được tại: http://localhost:8081. Bạn có thể đăng nhập bằng user(****) và pass(********) để quản lý cơ sở dữ liệu (Database wordpress_db đã được tạo sẵn qua biến môi trường).
 
+<img width="1909" height="920" alt="image" src="https://github.com/user-attachments/assets/df8de834-0437-49ea-b51a-c10f2b63ed0c" />
+
 - WordPress sẽ chạy tại: http://localhost:8080. Bạn truy cập vào đây để thực hiện các bước cài đặt WordPress ban đầu (chọn ngôn ngữ, tạo tài khoản admin).
 - n8n lúc này sẽ hoạt động nội bộ tại cổng: **http://localhost:5678.**
   
